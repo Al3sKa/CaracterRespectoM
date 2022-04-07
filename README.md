@@ -4,6 +4,6 @@ Los archivos los pasarán al programa de Netbeans en su proyecto. Creen una nuev
 ## IMPORTANTE
 > Los archivos tienen su lugar, por favor usa bien el orden.
 
-- Headers: [Encontrar.h](https://raw.githubusercontent.com/Al3sKa/SenoDeX/main/SenXRaiz.h)
-- Clase: [Encontrar.cpp](https://raw.githubusercontent.com/Al3sKa/SenoDeX/main/SenXRaiz.cpp)
-- Main: [CaracterRespectoM.cpp](https://raw.githubusercontent.com/Al3sKa/SenoDeX/main/SenoDeX.cpp)
+- Headers: [Encontrar.h](https://raw.githubusercontent.com/Al3sKa/CaracterRespectoM/main/Encontrar.h)
+- Clase: [Encontrar.cpp](https://raw.githubusercontent.com/Al3sKa/CaracterRespectoM/main/Encontrar.cpp)
+- Main: [CaracterRespectoM.cpp](https://raw.githubusercontent.com/Al3sKa/CaracterRespectoM/main/CaracterRespectoM.cpp)
